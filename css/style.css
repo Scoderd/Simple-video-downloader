@@ -1,1 +1,93 @@
+* {
+   margin: 0;
+   padding: 0;
+}
 
+body {
+   padding-top: 85px;
+   min-height: 150vh;
+}
+
+.header-section {
+   border: 1px solid black;
+   padding: 30px;
+   border-radius: 8px;
+   margin-bottom: 20px;
+   height: auto;
+}
+
+.download-section {
+   margin: auto;
+   width: auto;
+}
+
+.inp {
+   display: flex;
+   justify-content: space-between;
+}
+
+#down {
+   margin-left: 10px;
+}
+
+.fb {
+   font-size: 20px;
+}
+
+.yt {
+   font-size: 20px;
+   background: red !important;
+}
+
+.ins {
+   font-size: 20px;
+   background: deeppink !important
+}
+
+#sbtn {
+   width: 100%;
+
+}
+
+.sub-box {
+   display: flex;
+   justify-content: center;
+}
+
+.sign {
+   width: 70px;
+}
+
+.chan p {
+   margin-top: 5px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.chan p a {
+   margin-left: 5px;
+   text-decoration: none;
+}
+
+.pro {
+   margin-top: 20px;
+}
+
+#pro1 {
+   display: none;
+}
+
+#pro2 {
+   display: none;
+}
+
+.btn2 {
+   background: deeppink !important;
+   border: none !important;
+}
+
+.btn3 {
+   background: red !important;
+   border: none !important;
+}
